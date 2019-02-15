@@ -1,0 +1,4 @@
+@startuml title
+UserException <|. UsernameException
+UserException <|. PasswrodException
+@enduml

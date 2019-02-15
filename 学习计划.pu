@@ -1,0 +1,12 @@
+@startgantt
+project starts the 2018/12/24
+2019/01/31 to 2019/02/07 is closed
+[spirng] lasts 7 days
+then [springMVC] lasts 7 days
+then [springboot] lasts 7 days
+then [jvm-了解面试常问的问题] lasts 14 days
+then [http协议相关] lasts 7 days
+then [vue.js 框架] lasts 14 days
+then [刷面经] lasts 7 days
+then [面试相关内容准备] lasts 7 days
+@endgantt
